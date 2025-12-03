@@ -5,7 +5,7 @@
 ---
 # 🛠️ The Tools I use(Editors and Languages)
 
-## Python
++ Python
 + C
 + Java
 + VS Code
